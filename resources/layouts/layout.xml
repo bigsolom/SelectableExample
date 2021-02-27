@@ -1,0 +1,16 @@
+<layout id="MainLayout">
+    <label text="Up" font="Graphics.FONT_LARGE" x="center" y="40" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    <drawable class="Selectables.Up">
+        <param name="locX">0</param>
+        <param name="locY">0</param>
+        <param name="width">300</param>
+        <param name="height">150</param>
+    </drawable>
+    <label text="Down" font="Graphics.FONT_LARGE" x="center" y="160" justification="Graphics.TEXT_JUSTIFY_CENTER"/>
+    <drawable class="Selectables.Down">
+        <param name="locX">0</param>
+        <param name="locY">150</param>
+        <param name="width">300</param>
+        <param name="height">150</param>
+    </drawable>
+</layout>
